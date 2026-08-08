@@ -6,19 +6,7 @@ A team project for automating badminton court lighting and ventilation using ESP
 
 The system connects the badminton court booking system with ESP32 devices.
 
-Web Application
-↓
-MariaDB
-↓
-Raspberry Pi
-↓
-Python
-↓
-MQTT / Mosquitto
-↓
-ESP32
-↓
-Court Lights / Fans
+Web Application -> MariaDB -> Raspberry Pi -> Python -> MQTT / Mosquitto -> ESP32 -> Court Lights / Fans
 
 ## My Contributions
 

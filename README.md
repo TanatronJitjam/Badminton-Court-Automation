@@ -1,4 +1,4 @@
-# Smart Badminton Court Automation System
+# Badminton Court Automation System
 
 A team project for automating badminton court lighting and ventilation using ESP32, MQTT, and a Raspberry Pi server.
 

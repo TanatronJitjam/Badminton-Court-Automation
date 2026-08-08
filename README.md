@@ -1,3 +1,7 @@
+
+
+
+
 # Badminton Court Automation System
 
 A team project for automating badminton court lighting and ventilation using ESP32, MQTT, and a Raspberry Pi server.
@@ -28,3 +32,10 @@ Web Application -> MariaDB -> Raspberry Pi -> Python -> MQTT / Mosquitto -> ESP3
 - Linux
 - Nginx
 - DHT11
+
+## Demo Video
+
+https://github.com/user-attachments/assets/1052060b-4221-4aa4-b69d-8bd6e6fe4d54
+
+
+
